@@ -19,7 +19,6 @@
 | Task | OCR / Document AI / Thai vote-count extraction |
 | Dataset Scale | 300 documents · 846 PNG page images · 10,053 submission rows |
 | Evaluation Metric | Mean Levenshtein Distance |
-| Result | **Rank 44** |
 | Score | **Mean Levenshtein distance ≈ 0.2360** |
 | Certificate | [Verify credential](https://mysuperai.aiat.or.th/certificate/hack2/600637) |
 
