@@ -7,7 +7,6 @@
 ![Vision LLM](https://img.shields.io/badge/Vision%20LLM-Gemini%20%2F%20OCR-9B7DF8)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Table%20Extraction-2EC866)
 ![Metric](https://img.shields.io/badge/Metric-Mean%20Levenshtein%20Distance-EDB227)
-![Super AI Engineer](https://img.shields.io/badge/Super%20AI%20Engineer-Season%206-F36F21)
 
 ---
 
