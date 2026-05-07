@@ -312,8 +312,8 @@ python src/validate_submission.py results/submission.csv --template data/submiss
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/KunakornMart/superai-s6-thai-election-ocr.git
-cd superai-s6-thai-election-ocr
+git clone https://github.com/KunakornMart/AgenticPipelineHackathon_ThaiElectionOCR.git
+cd AgenticPipelineHackathon_ThaiElectionOCR
 ```
 
 ### 2. Install Dependencies
